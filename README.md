@@ -2,7 +2,7 @@
 LioraFetch Sisteminizin Özelliklerini Gösteren 
 Python ile yazılmış bir fetch aracıdır
 
-![LioraFetch](logo.png)
+![LioraFetch](ZeeResizer.png)
 
 ## FEEDBACK
 Kodumda hatalar olabilir! Lütfen bulduğunuz hataları
