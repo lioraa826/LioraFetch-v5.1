@@ -1,4 +1,14 @@
-# LioraFetch
-first ty for downloading
-if u got some problems u can contact me on reddit (u/No-lock9569)
-i hope u love my fetchtool!
+## LioraFetch Nedir?
+LioraFetch Sisteminizin Özelliklerini Gösteren 
+Python ile yazılmış bir fetch aracıdır
+
+## FEEDBACK
+Kodumda hatalar olabilir! Lütfen bulduğunuz hataları
+r/No-Lock9569 Hesabıma bildirin!
+
+
+
+##
+```
+
+```
