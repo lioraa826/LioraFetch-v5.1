@@ -8,7 +8,12 @@ r/No-Lock9569 Hesabıma bildirin!
 
 
 
-##
+## KURULUM
+```
+
+```
+
+## BAŞLATMA
 ```
 
 ```
